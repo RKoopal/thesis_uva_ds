@@ -1,6 +1,6 @@
 
 ''' 
-From 'evaluation/exact_match.py'.
+From 'evaluation/exact_match.py'. 
 This function was used to calculate the loss at a token level for the WikiANN task.
 '''
 def calculate_token_level_match_accuracy(ground_truth_file: Path, prediction_file: Path) -> float:
