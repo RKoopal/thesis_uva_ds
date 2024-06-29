@@ -1,0 +1,11 @@
+data/
+train/
+test/
+output/
+mlruns/
+tb-logs/
+mixed_llm/
+experiment*/
+*.json
+*.model
+*.safetensors
