@@ -14,7 +14,7 @@ This code is incomplete and will not run on its own. Part of the codebase used, 
 
 All final experiments whose results were used in the paper were performed on the Databricks platform. The 'databricks' folder contains the scripts created to run the code on the Databricks platform. Note that this folder is created to differentiate these files and does not reflect the directory structure used on the Databricks platform.
 
-## imported.ipynb
+## imported.py
 
 Functions that were added to the 'hidden' code for this research are located in `databricks/imported.py`. This file did not exist during the research; it simply holds functions that were part of a larger script that cannot be shown here.
 
