@@ -1,6 +1,8 @@
 # Project
 
 This repository contains some of the code used in the thesis research titled: 'Is Merging All You Need?: Creating stronger multilingual multi-task LLMs using model merging.' Written by Reimer Sjouke Theodoor Koopal and submitted on 30-06-2024 in partial fulfillment for the Msc Information Studies - Data Science, at the University of Amsterdam. The research was commissioned by Deloitte Nederland as a thesis internship project.
+UvA supervisor: Niels van der Heijden
+Deloitte supervisor: Ignacio Montes Álvarez
 
 ## DISCLAIMER
 
